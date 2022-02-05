@@ -1,6 +1,6 @@
 # Software-Testing
 
-Manual Testing\
+###Manual Testing\
 Software Development Life Cycle\
 Waterfall Model\
 Spiral Model\
@@ -8,9 +8,8 @@ Prototype Model\
 V & V Model\
 Hybrid Model\
  
-\
-\
-Software Testing\
+
+###Software Testing\
 White Box Testing\
 Path Testing\
 Loop Testing
@@ -59,23 +58,23 @@ Procedure to Write and Execute Test Case\
 Test case Review Process\
  
 
-2.  Software Test Life Cycle\
+### 2.  Software Test Life Cycle\
 Traceability Matrix\
 Test Execution Reports\
  
 
-3.  Test Management Tool\
+### 3.  Test Management Tool\
 Jira\
 Klaros\
 Qase\
  
 
-4.  Test Plan\
+### 4.  Test Plan\
 Sections of Test Plan\
 Test Metrices\
  
 
-5.  Defect Tracking\
+#### 5.  Defect Tracking\
 Introduction to Defects\
 Defect Life Cycle\
 Status of Defects\
@@ -87,9 +86,9 @@ MANTIS\
 QC
  
 
-6.  Static Testing\
+### 6.  Static Testing\
 
-7.Dynamic Testing\
+###7.Dynamic Testing\
 
 8.Quality Assurance and Quality Control\
 9.Projects\
@@ -99,7 +98,7 @@ Mobile Application\
 Compatibility Testing Project\
 
   
-Software Development Model\
+###Software Development Model\
 
   
 Agile Methodology o Agile Scrum\
@@ -107,13 +106,13 @@ Agile Kanban\
 Agile Xtreme Programming\
  
 
-DevOps\
+$$$DevOps\
 Relationship between Agile and DevOps\
 Relationship between Agile and DevOps\
 CI/CD Pipeline\
  
 
-Git\
+###Git\
 git Overview\
 git Installation\
 git Account Setup\
@@ -125,7 +124,7 @@ git Push\
 git Update\
  
 
-Core Java\
+###Core Java\
  
 
 Section 1\
@@ -144,7 +143,7 @@ Interactive programs in java using Scanner\
 Section 2\
  
 
-Object Oriented Programming System\
+###Object Oriented Programming System\
 
 Classes and Objects\
 Object creation\
@@ -162,7 +161,7 @@ Java packages\
 Access Specifies\
 
  
-Selenium\
+### Selenium\
  
 
 •    Automation Testing\
@@ -179,7 +178,7 @@ What are its versions?\
 What all OS, Browsers, and Programming Languages it Support?\
  
 
-Java-Selenium Architecture\
+### Java-Selenium Architecture\
 WebDriver Architecture\
 Basic Selenium Program to Open and close Browser\
 Runtime Polymorphism Program in Selenium\
@@ -198,7 +197,7 @@ Handling Frames\
 Handling New Windows/New Tabs\
  
 
-•    AUTOMATION FRAMEWORK\
+•    ### AUTOMATION FRAMEWORK\
  
 
 Data-Driven\
@@ -206,7 +205,7 @@ Keyword-Driven\
 Method-Driven\
          o POM (Page Object Model)\
 
-•  TestNG\
+### •  TestNG\
 Fetching TestNG Report\
 Batch Execution\
 TestNG Flags and Annotations\
@@ -217,7 +216,7 @@ Data driven through Data Provider\
 Parallel Execution\
  
 
-API Testing\
+### API Testing\
  
 
 1.  Instruction to WebServcie\
@@ -243,7 +242,7 @@ Export JSON Project\
 Execute test suite in command line\
  
 
-Jenkins\
+### Jenkins\
 What is Jenkins\
 How to install Jenkins\
 Create your first job in Jenkins\
@@ -252,7 +251,7 @@ How to Integrate smoke, System and Regression test in CI/CD\
 Project Integration with\
  
 
-Performance Testing\
+### Performance Testing\
 What is  JMeter\
 Build a Basic Test plan and Workbench\
 User defined variables\
