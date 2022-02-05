@@ -1,6 +1,6 @@
 # Software-Testing
 
-###Manual Testing\
+### Manual Testing\
 Software Development Life Cycle\
 Waterfall Model\
 Spiral Model\
@@ -9,7 +9,7 @@ V & V Model\
 Hybrid Model\
  
 
-###Software Testing\
+### Software Testing\
 White Box Testing\
 Path Testing\
 Loop Testing
@@ -98,7 +98,7 @@ Mobile Application\
 Compatibility Testing Project\
 
   
-###Software Development Model\
+### Software Development Model\
 
   
 Agile Methodology o Agile Scrum\
@@ -106,13 +106,13 @@ Agile Kanban\
 Agile Xtreme Programming\
  
 
-$$$DevOps\
+### DevOps\
 Relationship between Agile and DevOps\
 Relationship between Agile and DevOps\
 CI/CD Pipeline\
  
 
-###Git\
+### Git\
 git Overview\
 git Installation\
 git Account Setup\
@@ -124,7 +124,7 @@ git Push\
 git Update\
  
 
-###Core Java\
+### Core Java\
  
 
 Section 1\
@@ -143,7 +143,7 @@ Interactive programs in java using Scanner\
 Section 2\
  
 
-###Object Oriented Programming System\
+### Object Oriented Programming System\
 
 Classes and Objects\
 Object creation\
